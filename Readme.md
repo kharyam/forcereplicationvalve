@@ -7,4 +7,3 @@ Update the pom.xml with the version of tomcat that you are using:
         <tomcat.version>7.0.54</tomcat.version>
     </properties>
 
-Refer to [this post](http://www.flexibledeveloper.com/2014/08/tomcat-cluster-replication-fix/)‎ for details.
